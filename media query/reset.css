@@ -1,0 +1,16 @@
+*,body,html{
+    margin: 0;
+    padding:0;
+}
+
+html{
+    heght:100%;
+    }
+
+body{
+    height: 100%;
+    background-color: #eeeeee;
+    font:1em Oswald;
+    text-rendering: optimizeLegibility !important;
+    -webkit-fot-smoothing: antialiased !important;
+}
